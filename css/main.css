@@ -37,7 +37,7 @@ html {
 }
 
 .banner {
-  background-image: linear-gradient(to top, rgba(16, 52, 41, .8), rgba(16, 52, 41, 0) 70%), url("../images/banner.jpg"););
+  background-image: linear-gradient(to top, rgba(16, 52, 41, .8), rgba(16, 52, 41, 0) 70%), url("../images/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -50,8 +50,8 @@ html {
   background-repeat: no-repeat;
   background-size: 10%;
   background-position: .75em 0;
-  padding-left: .75em;
   padding-top: 120px;
+  padding-left: .75em;
 }
 
 @media only screen and (min-width: 60em) {
